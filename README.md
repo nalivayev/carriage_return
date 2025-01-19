@@ -1,1 +1,1 @@
-Private repository with markdown articles
+Repository with markdown articles
